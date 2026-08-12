@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ryan Cox
 
-<!--
-**AiRC-ai/AiRC-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems & AI engineer building local-first software across C++, CUDA, Rust, Swift/Metal, and self-hosted infrastructure.
 
-Here are some ideas to get you started:
+I build end-to-end systems—from GPU-accelerated runtimes and native macOS apps to model integration, APIs, containers, and the infrastructure that runs them. My current work is centered on [AiRC.ai](https://airc.ai).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **[AiRC Whisper](https://github.com/AiRC-ai/AiRC-Whisper)** — Native Apple Silicon transcription with an AppKit front end, whisper.cpp, Metal acceleration, AVFoundation media conversion, and local export workflows.
+- **[Collatz Research System](https://github.com/AiRC-ai/Collatz)** — Reproducible C++20/CUDA path analysis, supervised embeddings, held-out validation, and tooling for falsifying proof candidates.
+
+## Technical focus
+
+C/C++ · CUDA · Rust · Swift · Metal · Python · Docker · Linux/macOS · local AI · systems integration
+
+## Current focus
+
+Private, local-first AI products; reproducible high-performance computing; and reliable self-hosted systems.
+
+## Connect
+
+[AiRC.ai](https://airc.ai) · [LinkedIn](https://www.linkedin.com/in/ryancox9/)
