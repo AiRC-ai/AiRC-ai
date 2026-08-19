@@ -31,7 +31,7 @@ A desktop AI orchestration platform for work that outlasts a single prompt. AiRC
 
 - **[AiRC Transcriber — App Store](https://apps.apple.com/us/app/airc-transcriber/id6780125744)** — Private, on-device transcription for iPhone, Apple Watch, and Apple Silicon Mac, with cross-device processing, searchable transcripts, captions, exports, and transcript-grounded local AI.
 
-## Selected open-source work
+## Featured open-source projects
 
 - **[AiRC Whisper](https://github.com/AiRC-ai/AiRC-Whisper)** — Native Apple Silicon transcription with an AppKit front end, whisper.cpp, Metal acceleration, AVFoundation media conversion, and local export workflows.
 - **[Collatz Research System](https://github.com/AiRC-ai/Collatz)** — Reproducible C++20/CUDA path analysis, supervised embeddings, held-out validation, and tooling for falsifying proof candidates.
